@@ -1,4 +1,4 @@
-# 🧾 GroMart Online Delivery Impact Analysis (2016 Case Study)
+#  GroMart Online Delivery Impact Analysis (2016 Case Study)
 
 ##  Project Overview
 This project analyzes **GroMart’s 2016 partnership with SwiftCart**, where select California ZIP codes received online delivery service.  
@@ -45,7 +45,7 @@ It also explores **which income and growth segments (A–D quadrants)** benefite
 | **2016 (After)** | Online ZIPs | ↑ ~2–3 % | Slight lift, no cannibalization |
 |  | Offline ZIPs | ≈ Flat | Unaffected by rollout |
 
-➡ **Takeaway:** Online delivery **complemented** in-store performance rather than replacing it.  
+ **Takeaway:** Online delivery **complemented** in-store performance rather than replacing it.  
 In ZIPs with online service, in-store sales stayed stable or rose slightly — indicating **synergistic growth across channels**.
 
 ---
