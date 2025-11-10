@@ -1,13 +1,13 @@
 # 🧾 GroMart Online Delivery Impact Analysis (2016 Case Study)
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes **GroMart’s 2016 partnership with SwiftCart**, where select California ZIP codes received online delivery service.  
 The goal was to assess how the **introduction of online ordering** impacted **offline (in-store) sales**, and whether the program boosted total revenue or cannibalized existing store performance.  
 It also explores **which income and growth segments (A–D quadrants)** benefited most from the rollout.
 
 ---
 
-## 🧠 Key Questions
+##  Key Questions
 1. How was the **online rollout** implemented across ZIP codes?  
 2. What was the **overall impact** on in-store sales after January 2016?  
 3. Did the online delivery program **affect offline store performance** within those ZIP codes?  
@@ -16,7 +16,7 @@ It also explores **which income and growth segments (A–D quadrants)** benefite
 
 ---
 
-## 🧮 Methodology
+##  Methodology
 - **Dataset:** Monthly in-store sales for all ZIP codes across **2015–2016**, combined with ZIP-level demographics (Median Income, Population, Pharmacy presence).  
 - **Cleaning:** Corrected online-availability flags for pre-2016 months to reflect true rollout timing.  
 - **Metrics:**  
@@ -28,7 +28,7 @@ It also explores **which income and growth segments (A–D quadrants)** benefite
 
 ---
 
-## 🚀 Rollout Overview
+##  Rollout Overview
 - **Before 2016:** All stores operated exclusively offline.  
 - **January 2016:** SwiftCart delivery launched across ~30 ZIP codes in a single-phase rollout.  
 - **Pattern:** Rapid adoption in Q1 2016, stabilizing by mid-year.  
@@ -37,7 +37,7 @@ It also explores **which income and growth segments (A–D quadrants)** benefite
 
 ---
 
-## 📈 Before vs After Impact
+##  Before vs After Impact
 
 | Period | Segment | Avg In-Store Sales | Trend |
 |:-------|:---------|------------------:|:------|
@@ -50,7 +50,7 @@ In ZIPs with online service, in-store sales stayed stable or rose slightly — i
 
 ---
 
-## 🧩 Quadrant Classification
+##  Quadrant Classification
 
 Each ZIP code was categorized into one of four **income–growth quadrants**, revealing distinct customer and market behaviors.
 
@@ -76,7 +76,7 @@ Each ZIP code was categorized into one of four **income–growth quadrants**, re
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - **Rollout success:** Online delivery expanded access without disrupting existing store operations.  
 - **No offline cannibalization:** In-store sales remained steady or improved slightly post-rollout.  
 - **Complementary channels:** Online and offline performance moved together — overall revenue increased.  
@@ -85,7 +85,7 @@ Each ZIP code was categorized into one of four **income–growth quadrants**, re
 
 ---
 
-## 🔍 Overall Findings (2016 vs 2015 Medians)
+##  Overall Findings (2016 vs 2015 Medians)
 
 | Quadrant | Median Income ($) | Median % Change | Key Behavior |
 |-----------|-----------------:|----------------:|---------------|
@@ -96,13 +96,13 @@ Each ZIP code was categorized into one of four **income–growth quadrants**, re
 
 ---
 
-## 🧾 Final Summary
+##  Final Summary
 > “GroMart’s 2016 online delivery rollout with SwiftCart drove incremental growth while maintaining strong offline sales.  
 > The program achieved inclusive adoption across both high- and low-income ZIPs, proving that digital expansion complemented rather than cannibalized traditional retail.”  
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Google Colab / Jupyter Notebook** for EDA and visualization  
 - **PowerPoint** for executive presentation  
